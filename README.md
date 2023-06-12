@@ -1,3 +1,9 @@
+# Live Demo Accordion
+
+The accordion component is a user interface element that allows users to expand and collapse sections of content. It's commonly used to present information in a compact and organized manner, particularly when there is a need to display a large amount of content in a limited space.
+
+Live project demo:- [Q & A based on JavaScript and React](https://qanda-accordion.adityajanardan.repl.co)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
